@@ -1,7 +1,7 @@
 #include<WiFi.h>
 #include<HTTPClient.h>
 
-const char ssid[] = "ssid";
+const char ssid[] = "Tenda_C106E";
 const char password[] = "password";
 
 String api = "http://192.168.1.32:5000/add";
